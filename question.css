@@ -1,0 +1,238 @@
+#back{
+    background-image: url("back.jpg");
+    background-size: cover;
+}
+
+#friend{
+    background-color: white;
+    text-shadow: 10px;
+    color: rgb(55, 55, 207);
+    text-align:center;
+    box-shadow:2px 2px 10px black;
+    margin-top: 0px;
+}
+#friends{background-color: orange;
+    text-shadow: 10px;
+    color: white;
+    text-align:center;
+    box-shadow:2px 2px 10px black;
+
+}
+#friendss{background-color: green;
+    text-shadow: 10px;
+    color: white;
+    text-align:center;
+    box-shadow:2px 2px 10px black;
+
+}
+#friend:hover{
+    box-shadow: 3px 3px 10px white;
+}
+#friends:hover{
+    box-shadow: 3px 3px 10px white;
+}
+#friendss:hover{
+    box-shadow: 3px 3px 10px white;
+}
+#Rajput{background-color: rgb(230, 194, 127);
+    text-shadow: 10px;
+    color: red;
+    text-align:center;
+    box-shadow:2px 2px 10px black;
+    margin-top: 50px;
+
+}
+#Rajput:hover{
+    box-shadow: 3px 3px 20px white;
+}
+
+
+.main {
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 100px;
+    display: inline-block;
+    border-radius: 12px;
+    box-shadow: 1px 1px 1px white;
+    color: rgb(243, 183, 183);
+}
+.main:hover{
+    box-shadow: 2px 2px 20px white;
+}
+
+.style {
+    background-color: rgb(58, 167, 234);
+    height: 150px;
+    border: 2px solid black;
+    display: flow-root;
+    border-radius: 10px;
+    box-shadow: 4px 2px 10px black;
+
+}
+#karan1:hover {
+    background-image: url("Screenshot 2025-11-08 012543.png");
+    background-size: contain;
+}
+#ankur1:hover {
+    background-image: url("Screenshot 2025-11-08 010937.png");
+    background-size: contain;
+}
+#soumya1:hover {
+    background-image: url("Screenshot 2025-11-08 010928.png");
+    background-size: contain;
+}
+#nitin1:hover {
+    background-image: url("Screenshot 2025-11-08 012959.png");
+    background-size: contain;
+}
+#akhil1:hover {
+    background-image: url("Screenshot 2025-11-08 012939.png");
+    background-size: contain;
+}
+#dimin1:hover {
+    background-image: url("Screenshot 2025-11-08 013657.png");
+    background-size: contain;
+}
+#akshat1:hover {
+    background-image: url("Screenshot 2025-11-08 013800.png");
+    background-size: contain;
+}
+#tripti1:hover {
+    background-image: url("Screenshot 2025-11-08 013723.png");
+    background-size: contain;
+}
+/* #abhi {
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 100px;
+    display: inline-block;
+    border-radius: 12px;
+}
+#abhi1{
+    background-color: blue;
+    height: 150px;
+    border: 2px solid black;
+    display:flow-root;
+    border-radius: 10px;
+    box-shadow: 4px 2px 10px black;
+} */
+#abhi1:hover {
+    background-image: url("Screenshot 2025-11-08 011000.png");
+    background-size: contain;
+}
+
+/* #anand {
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    margin-top: 100px;
+    display: inline-block;
+    margin-left: 20px;
+     border-radius: 12px;
+}
+#anand1{
+    background-color: blue;
+    height: 150px;
+    border: 2px solid black;
+    display:flow-root;
+    border-radius: 10px;
+    box-shadow: 4px 2px 10px black;
+} */
+#anand1:hover {
+    background-image: url("Screenshot 2025-11-08 010558.png");
+    background-size: contain;
+}
+
+/* #Pratik {
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    margin-top: 100px;
+     margin-left: 20px;
+    display: inline-block;
+     border-radius: 12px;
+}
+
+#pratik1{
+    background-color: blue;
+    height: 150px;
+    border: 2px solid black;
+    display:flow-root;
+    box-shadow: 4px 2px 10px black;
+    border-radius: 10px;
+} */
+#pratik1:hover {
+    background-image: url("Screenshot 2025-11-08 010842.png");
+    background-size: contain;
+}
+
+/* 
+#maya {
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    margin-top: 50px;
+    display: inline-block;
+    margin-left: 20px;
+     border-radius: 12px;
+} 
+
+#maya1{
+    background-color: blue;
+    height: 150px;
+    border: 2px solid black;
+    display:flow-root;
+    box-shadow: 4px 2px 10px black;
+    border-radius: 10px;
+} */
+#maya1:hover {
+    background-image: url("Screenshot 2025-11-08 010911.png");
+    background-size: contain;
+}
+
+/* #karan {
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    margin-top: 50px;
+    display: inline-block;
+    margin-left: 100px;
+     border-radius: 12px;
+} 
+
+#karan1{
+    background-color: blue;
+    height: 150px;
+    border: 2px solid black;
+    display:flow-root;
+    box-shadow: 4px 2px 10px black;
+    border-radius: 10px;
+} */
+
+/* div{
+   
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    margin-top: 100px;
+    display: inline-block;
+    margin-left: 20px;
+    
+    
+
+} */
+
+/* #abhi{
+    margin-left: 100px;
+} */

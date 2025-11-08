@@ -1,0 +1,34 @@
+h1{
+    color: black;
+}
+
+div{
+    background-color: green;
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin: 5px;
+}
+#static{
+    position: static;
+    top: 400px;
+    left: 800px;
+}
+
+#relative{
+    position:relative;
+    top: 100px;
+    left: 100px;
+}
+
+#absolute{
+    position: absolute;
+    top: 100px;
+    left:100px;
+}
+#fixed{
+    position: fixed;
+    top: 100px;
+    left:500px;
+}
